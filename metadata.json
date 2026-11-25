@@ -1,0 +1,8 @@
+{
+  "name": "Sunshine School Super Admin",
+  "description": "Super Admin governance console for Sunshine School Social — managing teacher approvals, granular permissions, content moderation, advertisements, and LiveKit broadcasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
